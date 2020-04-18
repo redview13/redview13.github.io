@@ -1,0 +1,24 @@
+.rounded {
+  border-radius: 1rem!important;
+  color: #333333;
+  font-family: 'PT Sans Caption', sans-serif;
+  filter: blur(0px);
+}
+
+.caption-content {
+  padding-top: 10px;
+}
+
+.h2 {
+  font-size: 80px;
+}
+
+.portfolio-item .caption .caption-content h2 {
+  font-size: 4rem;
+}
+
+.portfolio-item .caption .caption-content {
+  color: #fff;
+  margin: 2rem 20rem;
+}
+
