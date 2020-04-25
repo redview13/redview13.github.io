@@ -1,0 +1,1 @@
+"use strict";!function(){if(768<window.screen.width){var e=document.querySelector("a[href^='tel']");e&&e.addEventListener("click",function(e){e.stopImmediatePropagation(),e.preventDefault()})}}();

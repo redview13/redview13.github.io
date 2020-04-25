@@ -1,0 +1,1 @@
+"use strict";!function(){var e=document.querySelector(".share"),t=document.querySelector(".contacts-container"),c=document.querySelector(".social__container");e||c||(t.style.alignItems="center")}();
